@@ -1,4 +1,4 @@
-#### CryPtit: An easy way to encrypt/decrypt the password in CTF game
+### CryPtit: An easy way to encrypt/decrypt the password in CTF game
 
 #### Usage：
 
